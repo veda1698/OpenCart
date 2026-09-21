@@ -1,0 +1,7 @@
+baseTest\BaseTest.class
+testClasses\TC002_LoginTest.class
+utilities\ReadExcel.class
+utilities\DataProviders.class
+utilities\ExtentReportsWithListener.class
+testClasses\TC001_RegisterTest.class
+testClasses\TC003_LoginDDT.class

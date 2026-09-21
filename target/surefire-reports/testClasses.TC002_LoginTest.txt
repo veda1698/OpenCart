@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testClasses.TC002_LoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.28 s -- in testClasses.TC002_LoginTest
